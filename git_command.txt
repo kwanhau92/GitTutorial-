@@ -6,3 +6,6 @@ git congif -l
 git remote -v # view current remotes
 git remote rm destination/origin # remove remote
 
+git status # view status
+git add *
+git commit -m ''
