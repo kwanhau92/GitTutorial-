@@ -5,6 +5,7 @@ git congif -l
 
 git remote -v # view current remotes
 git remote rm destination/origin # remove remote
+git remote add origin *url
 
 git status # view status
 git add *
